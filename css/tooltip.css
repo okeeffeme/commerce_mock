@@ -1,0 +1,12 @@
+/*
+ * Tooltip.js styles
+ */
+
+#tooltip {
+	position:absolute;
+	background:#e8f6fb;
+    border: 3px solid #219ebe;
+	color:#0f4856;
+	padding: 10px;
+    max-width: 220px;
+}
